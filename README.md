@@ -10,25 +10,29 @@ welcome to my GitHub Page. My name is elichay ben-zohar i am 25 Years old and a 
 
 ## My favorite tools and technologies ⚙️ 
 
-> Tools and technologies that I have worked with and am interested in
+> Tools and technologies that I have worked with:
 
 <table>
   <tr>
                      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>C#
+        <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />
+      <br>JavaScript
     </td>
                      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons/?i=HTML" width="48" height="48" alt="java" />
-      <br>Java
+        <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
+      <br>HTML
     </td>
             <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
+        <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
+      <br>CSS
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
-      <br>redis
+        <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="React" />
+      <br>React
+      </td>
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
+    <br>GitHub
     </td>
   </tr>
  </tr>
