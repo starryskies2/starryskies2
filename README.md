@@ -1,6 +1,6 @@
 
 
- # Hey and welcome 👋 
+ # Hey and welcome 	:computer:
  </div>  
 <p align="justify"> 
 welcome to my GitHub Page. My name is elichay ben-zohar i am 25 Years old and a passionate learning web developer from israel.Currently I am learning and have the intention to work as a web developer in the future.
