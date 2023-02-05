@@ -15,7 +15,7 @@ welcome to my GitHub Page. My name is elichay ben-zohar i am 25 Years old and a 
 <table>
   <tr>
                      <td align="center" width="96">
-        <img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" width="48" height="48" alt="c#" />
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>C#
     </td>
                      <td align="center" width="96">
