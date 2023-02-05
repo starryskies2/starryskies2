@@ -27,7 +27,7 @@ welcome to my GitHub Page. My name is elichay ben-zohar i am 25 Years old from i
       <br>CSS
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="React" />
+        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" />
       <br>React
       </td>
       <td align="center" width="96">
