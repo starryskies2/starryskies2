@@ -40,11 +40,13 @@ welcome to my GitHub Page. My name is elichay ben-zohar i am 25 Years old from i
 
 
 ## Github stats 📊 
+<details> 
+  <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="starryskies2's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=starryskies2&show_icons=true&count_private=true&theme=darcula&hide_border=true" width="600px"  height="600x"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="starryskies2's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starryskies2&langs_count=8&layout=compact&theme=darcula&hide_border=true&icon_color=000&hide=Jupyter%20Notebook"  width="600" height="600px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="starryskies2's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=starryskies2&show_icons=true&count_private=true&theme=darcula&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="starryskies2's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starryskies2&langs_count=8&layout=compact&theme=darcula&hide_border=true&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
-
+</details>
 
 ## GitHub Profile Trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=starryskies2&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
