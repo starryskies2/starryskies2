@@ -38,7 +38,8 @@ welcome to my GitHub Page. My name is elichay ben-zohar i am 25 Years old from i
  </tr>
 </table>
 
-<details> ## Github stats 📊 
+<details>
+ <summary>Github stats 📊</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="starryskies2's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=starryskies2&show_icons=true&count_private=true&theme=darcula&hide_border=true" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="starryskies2's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starryskies2&langs_count=8&layout=compact&theme=darcula&hide_border=true&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
