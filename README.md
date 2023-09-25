@@ -47,5 +47,5 @@ welcome to my GitHub Page. My name is elichay ben-zohar i am 25 Years old from i
 </details>
 
 ## GitHub Profile Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=starryskies2&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?starryskies2=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 # 
